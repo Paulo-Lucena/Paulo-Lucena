@@ -1,7 +1,7 @@
 function tema(){
-    //var hour = new Date()
+    var hour = new Date()
 
-    var hour = 8 //<- Para teste
+    //var hour = 8 //<- Para teste
 
     if( hour >= 6 && hour < 18){
         document.body.style.background = 'whiter'
