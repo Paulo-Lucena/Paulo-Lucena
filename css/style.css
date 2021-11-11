@@ -22,3 +22,8 @@ footer{
     margin-top: 10px;
     text-align: center;
 }
+
+.rounded-circle{
+    width: 400px;
+    height: 400px;
+}
