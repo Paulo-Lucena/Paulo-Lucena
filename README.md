@@ -11,7 +11,10 @@ Gosto de criar sofwares e ajudar pessoas com meus projetos.
   "data" : {
      "fistName" : "Paulo",
      "lastName" : "Lucena",
-     "estudando": True,
+     "studying": true,
+     "course" : "Computer science",
+     "Working" : true,
+     "level": "intern"
         "Skills": ["C-sharp", "Java", "JavaScript"]
       } 
  }]
