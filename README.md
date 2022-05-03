@@ -7,12 +7,12 @@ Gosto de criar sofwares e ajudar pessoas com meus projetos.
 
 ```Json
 [{
-"Sobre": "Paulo Lucena", 
-  "data"{
+"Sobre" : "Paulo Lucena", 
+  "data" : {
      "fistName" : "Paulo",
      "lastName" : "Lucena",
      "estudando": True,
-        "Skills": [ "C-sharp", "Java", "JavaScritp"]
+        "Skills": ["C-sharp", "Java", "JavaScritp"]
       } 
  }]
  ```
