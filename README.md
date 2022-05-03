@@ -14,7 +14,7 @@ Gosto de criar sofwares e ajudar pessoas com meus projetos.
      "studying": true,
      "course" : "Computer science",
      "Working" : true,
-     "level": "intern"
+     "level": "intern",
         "Skills": ["C-sharp", "Java", "JavaScript"]
       } 
  }]
